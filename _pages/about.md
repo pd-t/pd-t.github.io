@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: mathematician. scientist. 
+subtitle: mathematician. scientist. optimist.
 
 profile:
   align: right
@@ -15,5 +15,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+ 
+Born and grown up at Augsburg I learned to love mathematics, the language 
+the universe is written in. On this journey I realized that life is complex 
+and it is an art to describe it as simply as possible. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Programming has also fascinated me since my youth. For this reason, I am pleased that my work in the field of artificial intelligence can now bring my two passions, mathematics and programming, together.
+
