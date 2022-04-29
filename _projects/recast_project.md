@@ -9,8 +9,8 @@ category: research
 
 The RECAST project aims to create an easy-to-use yet adaptable framework 
 for process support, which automatically replaces manual process steps with 
-AI solutions based on aggregated production data. To evaluate the concept,  
-the framework is to be used as an example for quality control and process  
+AI solutions based on aggregated production data. To evaluate the concept, 
+the framework is to be used as an example for quality control and process 
 optimization of welding processes for thermoplastic composites.
 
 RECAST is a joint project of the WOGRA AG research group in cooperation 
