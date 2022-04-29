@@ -13,13 +13,12 @@ AI solutions based on aggregated production data. To evaluate the concept,
 the framework is to be used as an example for quality control and process  
 optimization of welding processes for thermoplastic composites.
 
-Open Infrastructure for Machine Learning (RECAST) is a project of the WOGRA 
-AG research group in cooperation with the German Aerospace Center (DLR) and is 
-funded by the Ministry of Economic Affairs, Regional Development and 
-Energy as part of the High Tech Agenda of the Free State of Bavaria. The
+RECAST is a joint project of the WOGRA AG research group in cooperation 
+with the German Aerospace Center (DLR) and is funded by the Federal 
+Ministry of Education and Research of Germany abbreviated BMBF. The 
 project duration is 3 years with a budget of 1.4 Mio EUR.
 
-The idea for the story goes back to spring 2022. The idea for this project 
+The idea for this project goes back to spring 2022. The idea for this project 
 goes back to spring 2019. Just before that I met 
 [Lars Larsen](https://www.linkedin.com/in/dr-ing-lars-larsen-a17b7a132) 
 from DLR at the AI Convention at Augsburg. Together with his colleague 
