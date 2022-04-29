@@ -11,4 +11,4 @@ inline: true
 There it is, finally! As part of the announcement 
 [KI4KMU](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2020/03/2876_bekanntmachung.html) 
 the Federal Ministry of Education and Research accepted our project 
-[RECAST](projects/recast_project/). So stay tuned!
+[RECAST](projects/recast_project/).
