@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of my projects.
-nav: true
-display_categories: [research, 20%]
+nav: false
+display_categories: [research, 20%] 
 horizontal: false
 ---
 
