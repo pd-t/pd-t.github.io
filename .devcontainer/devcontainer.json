@@ -10,7 +10,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest",
+	"postCreateCommand": "CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@v0.132.2",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
