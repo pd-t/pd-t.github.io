@@ -34,7 +34,7 @@ profiles:
     url: 'https://orcid.org/0009-0006-1471-1454'
 
 interests:
-  - Artificial Intelligence
+  - Cyber Security
   - Large Language Models
 
 education:
@@ -44,5 +44,4 @@ education:
 
 ## About Me
 
-Thomas Fraunholz is currently a senior researcher at Smart Cyber Security GmbH, where he conducts research in the field of security for large language models. In the past, he has successfully managed publicly funded research projects in the field of artificial intelligence with funding in the millions of euros. He is also the author of several scientific publications and a regular speaker at conferences. 
-```
+Thomas Fraunholz is currently a senior researcher at Smart Cyber Security GmbH, where he conducts research in the field of security for large language models. In the past, he has successfully acquired and managed publicly funded research projects in the field of artificial intelligence with funding in the millions of euros. He is also the author of several scientific publications and a regular speaker at conferences. 
