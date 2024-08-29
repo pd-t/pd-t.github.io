@@ -50,7 +50,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/42498/file/42498.pdf'
+links:
+- name: 'Preprint'
+  url: 'https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/42498/file/42498.pdf'
+
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
